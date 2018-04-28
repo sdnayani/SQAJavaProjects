@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Group of group Suite" duration-ms="16" started-at="2018-02-06T16:32:10Z" finished-at="2018-02-06T16:32:10Z">
+    <groups>
+    </groups>
+    <test name="Group of group Test" duration-ms="16" started-at="2018-02-06T16:32:10Z" finished-at="2018-02-06T16:32:10Z">
+      <class name="com.week4.day2.examples.tests.StringAnagramTest">
+        <test-method status="PASS" signature="testIsAnagram()[pri:0, instance:com.week4.day2.examples.tests.StringAnagramTest@23223dd8]" name="testIsAnagram" duration-ms="6" started-at="2018-02-06T16:32:10Z" finished-at="2018-02-06T16:32:10Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

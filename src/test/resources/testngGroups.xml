@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "Suite1">
+ <!-- 
+<test name="Test1">
+  
+  
+  <classes>
+    <class name="com.week2.day4.testng.groups.testGroups"/>
+   
+  </classes>
+</test>
+<test name="InstanceDataProviderTest">
+
+	    <classes>
+	      <class name="com.week2.day5.examples.DataProviders.InstanceDataProviderExample"/>
+	    </classes>
+	</test>
+	
+  
+<test name="MultipleDataProvidersTest">
+
+	    <classes>
+	      <class name="com.week2.day5.examples.DataProviders.TestNGMultipleDataProviderExample"/>
+	    </classes>
+	</test>
+	-->
+	<test name="Week3Day2Tests">
+
+	    <classes>
+	      <class name="com.week3.day2.examples.tests.Week3Day2Tests"/>
+	    </classes>
+	</test>
+	
+	
+</suite>

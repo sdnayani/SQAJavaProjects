@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28" started-at="2018-02-08T23:54:39Z" finished-at="2018-02-08T23:54:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28" started-at="2018-02-08T23:54:39Z" finished-at="2018-02-08T23:54:39Z">
+      <class name="com.week4.day2.examples.tests.testSuperReducedString">
+        <test-method status="PASS" signature="testSuperReducedString1()[pri:0, instance:com.week4.day2.examples.tests.testSuperReducedString@396a51ab]" name="testSuperReducedString1" duration-ms="10" started-at="2018-02-08T15:54:39Z" finished-at="2018-02-08T15:54:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSuperReducedString1 -->
+      </class> <!-- com.week4.day2.examples.tests.testSuperReducedString -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

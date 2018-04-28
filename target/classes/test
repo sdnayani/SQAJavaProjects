@@ -1,0 +1,18 @@
+Reading Files
+Write method called fileReader() that takes input Stream, 
+outputStream as arguments.This should read the file called test.txt. 
+The File contents are Below.After reading copy the contents to 
+Two-dimensional Array of double values and 
+print the two-diamention array.Think about possible Exceptions and handle them 
+in try catch block.
+Sample Input
+
+7,7,7,7,7
+2,2,2,2,2
+1,1,1,1,1
+4,4,4,4,4
+Sample output in two-diametion array
+7.0	7.0	7.0	7.0	7.0	
+2.0	2.0	2.0	2.0	2.0	
+1.0	1.0	1.0	1.0	1.0	
+4.0	4.0	4.0	4.0	4.0	
